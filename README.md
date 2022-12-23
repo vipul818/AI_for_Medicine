@@ -1,10 +1,10 @@
-# Coursera AI for Medicine Specialization (offered by deeplearning.ai)
+# AI for Medicine Specialization
 
-Programming assignments, labs and quizzes from all courses in the Coursera [AI for Medicine Specialization](https://www.coursera.org/specializations/ai-for-medicine) offered by `deeplearning.ai`.
+TPhis project is based on the course **AI for Medicine** offered by `deeplearning.ai` on Coursera.
 
 **Instructors**: `Pranav Rajpurkar`, `Bora Uyumazturk`, `Amirhossein Kiani` and `Eddy Shyu`.
 
-## Specialization Info
+## Features
 
 AI is transforming the practice of medicine. It’s helping doctors diagnose patients more accurately, make predictions about patients’ future health, and recommend better treatments. This specialization helps to learn how to:
 
@@ -19,8 +19,8 @@ This repo contains my work for this specialization. The code base and diagrams a
 
 ## Programming Assignments
 
-### Course 1: [AI for Medical Diagnosis](https://www.coursera.org/learn/ai-for-medical-diagnosis)
-  
+### Course 1: AI for Medical Diagnosis
+
   - **Week 1**
     - Assignment: 
       - [Chest X-Ray Medical Diagnosis with Deep Learning](https://nbviewer.org/github/vipul818/AI_for_Medicine/blob/main/AI%20for%20Medical%20Diagnosis/Week_1/C1_W1_Assignment.ipynb)
@@ -40,7 +40,7 @@ This repo contains my work for this specialization. The code base and diagrams a
       - [Explore MRI data](https://nbviewer.org/github/vipul818/AI_for_Medicine/blob/main/AI%20for%20Medical%20Diagnosis/Week_3/C1_W3_Lab_1_explore_mri_data_and_labels.ipynb)
       - [Get a sub section](https://nbviewer.org/github/vipul818/AI_for_Medicine/blob/main/AI%20for%20Medical%20Diagnosis/Week_3/C1_W3_Lab_2_extract_a_sub_section.ipynb)
       - [Implement U-Net](https://nbviewer.org/github/vipul818/AI_for_Medicine/blob/main/AI%20for%20Medical%20Diagnosis/Week_3/C1_W3_Lab_3_unet_model.ipynb)  
-### Course 2: [AI for Medical Prognosis](https://www.coursera.org/learn/ai-for-medical-prognosis)
+### Course 2: AI for Medical Prognosis
   
   - **Week 1**
     - Assignment: 
@@ -71,7 +71,7 @@ This repo contains my work for this specialization. The code base and diagrams a
       - [Hazard function](https://nbviewer.org/github/vipul818/AI_for_Medicine/blob/main/AI%20for%20Medical%20Prognosis/Week_4/C2_W4_Lab_2_hazard_function.ipynb)
       - [Permissible pairs](https://nbviewer.org/github/vipul818/AI_for_Medicine/blob/main/AI%20for%20Medical%20Prognosis/Week_4/C2_W4_Lab_2_hazard_function.ipynb)    
 
-### Course 3: [AI For Medical Treatment](https://www.coursera.org/learn/ai-for-medical-treatment)
+### Course 3: AI For Medical Treatment
   - **Week 1** 
     - Assignment: 
       - [Estimating Treatment Effect Using Machine Learning](https://nbviewer.org/github/vipul818/AI_for_Medicine/blob/main/AI%20for%20Medical%20Treatment/Week_1/C3_W1_Assignment.ipynb)
