@@ -1,6 +1,6 @@
 # AI for Medicine Specialization
 
-TPhis project is based on the course **AI for Medicine** offered by `deeplearning.ai` on Coursera.
+This project is based on the course **AI for Medicine** offered by `deeplearning.ai` on Coursera.
 
 **Instructors**: `Pranav Rajpurkar`, `Bora Uyumazturk`, `Amirhossein Kiani` and `Eddy Shyu`.
 
